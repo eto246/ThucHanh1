@@ -1,0 +1,11 @@
+.btthem {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;  /* Màu nền của button */
+    color: white;  /* Màu chữ */
+    text-align: center;
+    border-radius: 5px;  /* Bo tròn góc */
+    text-decoration: none;  /* Bỏ gạch dưới */
+    font-size: 16px;
+    transition: background-color 0.3s;  /* Hiệu ứng chuyển màu */
+}
